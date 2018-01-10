@@ -11,7 +11,7 @@ import router from './config/routers'
 import api from './api/index'
 // 引用工具文件
 import utils from './utils/index'
-//引入 Element
+// 引入 Element
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 
